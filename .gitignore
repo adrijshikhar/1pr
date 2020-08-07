@@ -2,3 +2,4 @@ _site/*
 *.DS_Store
 /.vs
 .vscode
+node_modules

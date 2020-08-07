@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/thepracticaldev/1pr/issues"
   },
-  "homepage": "https://github.com/thepracticaldev/1pr#readme"
+  "homepage": "https://github.com/thepracticaldev/1pr#readme",
+  "devDependencies": {
+    "csslint": "^1.0.5",
+    "htmlhint": "^0.14.1",
+    "jshint": "^2.12.0"
+  }
 }
